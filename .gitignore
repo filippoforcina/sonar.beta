@@ -1,0 +1,9 @@
+/target/
+/.apt_generated/
+/.settings/
+/.idea/
+/.scannerwork/
+/.classpath
+/.factorypath
+/.project
+/.pydevproject

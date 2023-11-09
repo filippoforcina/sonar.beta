@@ -1,0 +1,5 @@
+print('Hello')
+raggio = input('Inserisci il raggio: ')
+r = float(raggio)
+print('Area:', 3.14 * r**2)
+print('Circonferenza:', 2 * 3.14 * r)
